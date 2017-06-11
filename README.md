@@ -1,7 +1,6 @@
-####Chat bot using -api.ai and twilio 
+####  bot using -api.ai and twilio 
 ======================
 
-/home/akhil/Desktop/github(twilio).png
 ### Running the demo
 
 ##### Set credentials
