@@ -8,8 +8,11 @@ Now the next part is to integrate it with twilio messaging platform
 On configuring twilio you will get
 
 Secret Instance SID
+
 Account SID
+
 API Key SID
+
 API Secret
 
 Fill the required fields in API.AI and host your chathot on heroku.
